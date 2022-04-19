@@ -5,7 +5,7 @@
 # URL 合集
 在`urls`输入可用的m3u直播地址
 ```javascript
-urls = [
+urls = [http://tx2play1.douyucdn.cn/live/5482295r4bGeYMXQ_4000.xs
     
 ]
 ```
